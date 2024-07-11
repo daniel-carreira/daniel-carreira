@@ -1,8 +1,8 @@
 <h2>Hey there, I'm Daniel Carreira.</h2>
 
 <p align='center'>
-  <img width="345px" height="150" src="https://github-readme-stats.vercel.app/api?username=daniel-carreira&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img width="250px" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-carreira&layout=compact&langs_count=6&theme=highcontrast"/>
+  <img width="345px" height="150" src="https://github-readme-stats.vercel.app/api?username=daniel-carreira&show_icons=true&theme=dark&rank_icon=github&count_private=true"/>
+  <img width="250px" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-carreira&layout=compact&langs_count=6&theme=dark"/>
 </p>
 
 <div align="center" style="display: inline_block"><br>
