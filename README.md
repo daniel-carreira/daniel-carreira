@@ -23,5 +23,4 @@
 <h3>Feel free to connect!</h3>
 <p>
   <a href="https://www.linkedin.com/in/danielcarreira/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Daniel Carreira-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:business@danielcarreira.com"><img alt="Email" src="https://img.shields.io/badge/Email-personal%40danielcarreira.com-blue?style=flat-square&logo=Microsoft%20Outlook"></a>
 </p>
